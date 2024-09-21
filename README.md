@@ -25,3 +25,8 @@ Afterwards, Deploy Now will set up a [GitHub Actions](https://github.com/feature
 Missing a feature? Create a [GitHub issue](https://github.com/ionos-deploy-now/ionos-deploy-now/issues). 
 
 _IONOS Deploy Now - made with :heart: by [us](https://docs.ionos.space/about-us/) in Karlsruhe, Germany_
+
+UTILISATION FIREBASE:
+
+![Capture d’écran 2024-09-21 à 22 56 51](https://github.com/user-attachments/assets/c183c56c-f2d5-4d04-b91a-f0cf073dd9d8)
+
