@@ -32,4 +32,5 @@ UTILISATION FIREBASE:
 
 UTILISATION DE TRELLO :
 
-![IMG_8822](https://github.com/user-attachments/assets/5ed07861-8792-4fd9-a01c-c229c939db2d)
+https://trello.com/home
+
