@@ -30,3 +30,6 @@ UTILISATION FIREBASE:
 
 ![Capture d’écran 2024-09-21 à 22 56 51](https://github.com/user-attachments/assets/c183c56c-f2d5-4d04-b91a-f0cf073dd9d8)
 
+UTILISATION DE TRELLO :
+
+![IMG_8822](https://github.com/user-attachments/assets/5ed07861-8792-4fd9-a01c-c229c939db2d)
